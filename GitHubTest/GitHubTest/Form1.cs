@@ -17,6 +17,7 @@ namespace GitHubTest
             InitializeComponent();
 
             int a = 0;
+            int b = 0;
         }
     }
 }
