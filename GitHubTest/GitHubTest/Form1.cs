@@ -15,6 +15,8 @@ namespace GitHubTest
         public Form1()
         {
             InitializeComponent();
+
+            int a = 0;
         }
     }
 }
